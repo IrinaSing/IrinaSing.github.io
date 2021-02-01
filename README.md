@@ -1,9 +1,1 @@
-# irinasing.github.io
-
-Hello to everyone! :hand: 
-My name is **Irina.** 
-I want to study web development and to find myself in a new profession :computer: 
-Currently I participate in **HackYourFuture** project.
-My background: pedagogy, e-learning, design.
-
-
+The home page I will build as a final Precourse project. I am actually have to hurry up with it.
