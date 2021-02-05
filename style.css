@@ -2,7 +2,35 @@ body {
   background-color: #34637b;
 }
 
-.myPic {
+.wrapper {
   margin-top: 70px;
   margin-left: 50px;
+  margin-right: 50px;
+}
+
+img {
+  display: inline-block;
+  width: 500px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.342);
+}
+
+.textDiv {
+  display: inline-block;
+  position: absolute;
+  padding-left: 60px;
+  padding-right: 60px;
+  max-width: 500px;
+}
+
+h1 {
+  margin: 0px;
+  color: #f1935a;
+  font-family: Candara;
+  font-size: 90px;
+}
+
+p {
+  color: #c6e8fd;
+  font-family: Lucida Console;
+  line-height: 1.6;
 }
