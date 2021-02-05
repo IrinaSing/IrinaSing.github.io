@@ -17,7 +17,7 @@ img {
 .textDiv {
   display: inline-block;
   position: absolute;
-  padding-left: 60px;
+  padding-left: 50px;
   padding-right: 60px;
   max-width: 500px;
 }
@@ -26,11 +26,25 @@ h1 {
   margin: 0px;
   color: #f1935a;
   font-family: Bahnschrift;
-  font-size: 90px;
+  font-size: 88px;
 }
 
 p {
   color: #c6e8fd;
   font-family: Lucida Console;
-  line-height: 1.6;
+  line-height: 1.4;
+  font-size: 18px;
+}
+
+h4 {
+  color: #c6e8fd;
+  font-family: Lucida Console;
+  font-size: 22px;
+}
+
+hr {
+  border: none; /* Убираем границу */
+  background-color: #224a5f; /* Цвет линии */
+  color: #224a5f; /* Цвет линии для IE6-7 */
+  height: 2px; /* Толщина линии */
 }
