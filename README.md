@@ -1,1 +1,17 @@
-The home page I will build as a final Precourse project. I am actually have to hurry up with it.
+# Home page
+
+Intro to my first individual project
+
+### Results
+
+- I've built my first GitPage.
+- I recollected some of my knowledges on HTML and CSS.
+- Now I have a home page that I can share with others.
+- I finished my individual assignment for HYF.
+
+### Languages used
+
+- HTML
+- CSS
+- Markdown
+- English
