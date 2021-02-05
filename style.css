@@ -11,7 +11,7 @@ body {
 img {
   display: inline-block;
   width: 500px;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.342);
+  box-shadow: -40px -30px 0px 0px rgba(34, 74, 95, 1);
 }
 
 .textDiv {
